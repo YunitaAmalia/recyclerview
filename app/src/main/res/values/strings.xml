@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">recyclerview</string>
+    <string name="judul">judul</string>
+    <string name="description">description</string>
+    <string-array name="judul_video">
+        <item>Sweet Home</item>
+        <item>Lookism</item>
+        <item>I Wanna Be U</item>
+        <item>My Three Annoying Brothers</item>
+        <item>How To Fight</item>
+        <item>Half Ghost</item>
+        <item>Study Group</item>
+        <item>Bad Guy</item>
+        <item>Daddy goes to school</item>
+        <item>Girls World</item>
+        <item>Operation True Love</item>
+        <item>True Beauty</item>
+        <item>Ken Dedes</item>
+        <item>Hantu +62</item>
+        <item>Save Me</item>
+    </string-array>
+    <string-array name="data_dekripsi">
+
+    <item> Cerita ini berkisah tentang seorang remaja bernama Cha Hyun-soo yang mengalami kehilangan keluarganya. Setelah peristiwa traumatis ini, dia pindah ke apartemen baru. Namun, hidupnya berubah drastis ketika dunia di sekitarnya terinfeksi oleh suatu virus misterius yang mengubah manusia menjadi makhluk-makhluk buas dan menakutkan.Hyun-soo, bersama dengan para tetangga yang selamat, terjebak di dalam gedung apartemen dan terpaksa berjuang untuk bertahan hidup dalam keadaan yang semakin mencekam. Sementara mereka berusaha untuk melawan ancaman monster-monster yang mengerikan, mereka juga harus menghadapi ketakutan dan konflik internal."Sweet Home" dikenal dengan atmosfer horor yang intens, desain karakter yang menakutkan, dan plot yang penuh kejutan. Para pembaca juga menikmati perkembangan karakter yang mendalam seiring berjalannya cerita. Hubungan antara karakter-karakter utama, serta konflik emosional dan fisik yang mereka hadapi, merupakan elemen-elemen yang membuat webtoon ini menarik.</item>
+    <item>Cerita "Lookism" berpusat pada karakter utama, Daniel Park, seorang remaja pemalu dan gemuk yang sering kali menjadi korban intimidasi. Namun, hidupnya mengalami perubahan drastis ketika dia secara misterius terbangun dalam tubuh yang sangat tampan dan atletis. Kini memiliki dua identitas fisik yang berbeda, Daniel menemukan dirinya terlibat dalam dua dunia yang sangat berbeda. Dia menghadapi tantangan untuk berurusan dengan tekanan sosial, norma kecantikan, dan dinamika sosial di dua dunia yang berbeda.
+        Seiring berjalannya cerita, "Lookism" menjelajahi berbagai tema seperti persahabatan, identitas diri, bullying, dan menerima perbedaan. Selain itu, cerita ini mengeksplorasi konsep "lookism" sendiri, yaitu diskriminasi atau preferensi berdasarkan penampilan fisik seseorang.</item>
+    <item>Webtoon "I Wanna Be U" merupakan sebuah karya webtoon yang bergenre kerajaan. Alur ceritanya memiliki sisi yang out of the box dan membawa kesan berbeda Webtoon ini dibuat oleh SAM dan diterbitkan oleh Line Webtoon Dengan rating 9,88 yang sangat bagus webtoon ini berkisah tentang seorang putri duke bernama Medeia Belliard yang posisinya sebagai putri mahkota direbut oleh seorang putri count bernama Psyche Poli. Sempat kecewa dan membenci Psyche, Medeia akhirnya mengetahui sisi gelap dari kerajaan setelah tak sengaja bertukar tubuh dengan Psyche Dengan berbekal kemampuan berpedang dan otak yang bagus, Medeia berusaha bertahan hidup saat putra mahkota memilih Psyche sebagai calon pengantinya Webtoon ini telah dirilis sejak 19 Januari 2020 dan masih aktif</item>
+    <item>BWebtoon "My Three Annoying Brothers" merupakan karya komedi yang dibuat oleh olive-yu dan diterbitkan oleh Line Webtoon. Webtoon ini memiliki rating 9,89 yang sangat bagus Alur ceritanya berkisah tentang Haeju yang seumur hidupnya tidak pernah mendapatkan kehidupan normal karena kehadiran ketiga kakaknya yang tampan dan populer Webtoon ini menghadirkan kisah komedi seputar kehidupan sehari-hari Haeju dengan ketiga kakaknya yang populer di sekolah Saat ini, webtoon ini masih aktif dengan episode-episode terbarunya</item>
+    <item> Webtoon "How to Fight" merupakan karya Park Taejoon (cerita) dan Kim Junghyun (gambar) yang membahas cerita tentang pecundang bernama Yoo Hobin Hobin tidak sengaja menemukan sebuah channel lama di Newtube dan mulai bangkit dengan memanfaatkan platform tersebut sebagai media Beberapa poin penting dari alur cerita webtoon ini meliputi: Hobin berusaha menghadapi kesengsaraan dengan memanfaatkan Newtube sebagai media dan membuat konten yang menarik Cerita ini menggunakan konsep "from zero to hero" dan mampu menampilkan cara Hobin berlatih dari awal hingga menjadi pandai bertarung. Selain menggunakan konsep "from zero to hero", webtoon ini juga menampilkan perbedaan kehidupan sosial antara kelas atas dan kelas bawah melalui situasi yang dibadikan. Webtoon ini mengandung unsur komedi yang menarik dan relevan dengan kehidupan sehari-hari, seperti adegan kocak yang terjadi sekali-kali. Selain itu, webtoon ini juga menampilkan adegan komedi yang terjadi sekali-kali, yang sering kali terhubung dengan teknik berkelahi yang dipelajari oleh Hobin. Hal ini membuat webtoon ini semakin menarik dan seru untuk diikuti.</item>
+    <item>Webtoon "Half-Ghost" mengisahkan tentang Hayeon yang dapat merasakan keberadaan hantu meskipun tidak bisa melihatnya secara langsung. Suatu hari, ia bertemu dengan seorang laki-laki bernama Juan yang tidak hanya bisa melihat hantu, tetapi juga bertarung melawannya. Laki-laki tersebut, Hu-an Lee, ternyata bukanlah siswa biasa, melainkan setengah hantu .Ia merasa ada yang berbeda dari Hayeon, namun tidak dapat memahami apa yang membuatnya berbeda, baik dari manusia maupun hantu. Dengan latar belakang ini, webtoon "Half-Ghost" menawarkan kisah romantis yang melibatkan keberadaan hantu dan kehidupan sehari-hari. Meskipun demikian, informasi lebih detail mengenai alur cerita webtoon ini tidak tersedia dalam sumber yang disediakan. Kamu bisa membaca webtoon ini di sini untuk mengetahui alur ceritanya secara lengkap.</item>
+    <item>Webtoon "Study Group" mengisahkan tentang kehidupan di Yusung Technical High School, yang dikenal sebagai "sekolah untuk calon kriminal masa depan." Di tengah lingkungan yang keras dan kompetitif, seorang siswa bernama Gamin memiliki satu tujuan: masuk ke universitas. Setelah ditolak dari berbagai kelompok belajar, Gamin memutuskan untuk membentuk kelompok belajarnya sendiri. Ketika Hankyeong, mantan tutor Gamin, bergabung dengan sekolahnya dengan harapan mendapatkan sertifikasi guru, tampaknya keduanya sedang berjuang untuk meraih hal yang tampaknya mustahil. Mampukah mereka mengalahkan segala rintangan dan mencapai impian mereka? </item>
+    <item>Seorang anak SMA cupu yang bernama Kang Jiwoong sangat bangga akan banyaknya penghargaan yang telah diterimanya. Hampir 10 tahun, Kang Jiwoong telah berusaha menjadi orang baik. Keadaan ini sebenarnya berawal dari kehidupan masa kecilnya, dimana Sujin, sahabat kecilnya bilang kalau dia akan menikah dengan orang baik dan perhatian, di mana orang itu adalah Jiwoong. Tentu saja, semenjak itu, Jiwoong bertekad untuk menjadi orang baik. Sayangnya, ketika beranjak dewasa, Sujin telah berpacaran dengan preman dari sekolah, dan dengan pedenya mengatakan bahwa dia tidak lagi menyukai orang baik, melainkan menyukai cowok nakal, sebab nakal itu keren. Semenjak itu, Kang Jiwoong bertekad untuk tidak lagi menjadi orang baik, melainkan ingin menjadi orang jahat.</item>
+    <item>Dalam webtoon "Daddy Goes to School", fokus utama adalah penceritaan seorang ayah yang menyayangi anak perempuannya. Ayah, yang dikenal dengan nama Dayeon, mengalami kecelakaan dan meninggal Karena kehilangan Dayeon, anaknya, yang merupakan anak perempuannya, harus menjaga dirinya sendiri.Anak Dayeon bertemu dengan Hajun, seorang teman di kelas, dan sering kali merasa kekhawatir akan keberadaan Hajun. Untuk melindungi anaknya dari geng "12 Shio" di sekolah, Dayeon menggunakan keterampilan bertarung yang dimiliki, yang mencakup membaca pemahaman dan keahlian dalam berbagai bidang.Selama menjaga anaknya, Dayeon menemukan cara untuk menghadapi tantangan sehari-hari dan mengembangkan keterampilan dirinya.Selain itu, webtoon ini juga membahas ekspresi fatis dalam bahasa Korea dan fungsi ekspresi fatis dalam cerita</item>
+    <item>Dikisahkan siswi SMA biasa bernama Oh Na Ri, ia berteman dengan teman-teman dengan paras cantik bernama Lim Yu Na, Lim Sun Ji, dan Seo Mi Rae. Awalnya Oh Nari merasa minder dengan teman-temannya yang cantik. Bahkan, ia tidak ingin berteman dengan mereka.Namun, berbagai kejadian terjadi, hingga akhirnya mereka menjadi sahabat. Lim Yu Na awalnya adalah teman Na Ri. Dia cantik dan sempurna dari kepribadiannya, keluarga, dan masih banyak lagi. Dia muak dengan orang-orang yang berpura-pura berteman dengannya dan bermuka dua. Dia hanya menganggap Na Ri sebagai teman sejatinya.Lim Seon Ji terlihat murni dan polos dalam penampilan tetapi setiap kali Na Ri menghadapi masalah, dia berada di depan untuk membantunya. Seo Mi Rae populer di antara teman-temannya. Dia sibuk berlatih untuk menjadi idola K-Pop. Dia penasaran dengan Na Ri ketika dia menyadari bahwa Yu Na menganggapnya sebagai orang yang spesial.</item>
+    <item>Sinopsisnya tentang siswi SMA bernama Soo-ae. Tiba-tiba dia mendapatkan sebuah kiriman misterius berisi handphone jadul.</item>
+    <item>True Beauty berkisah tentang seorang gadis SMA bernama Im Ju Gyeong (Moon Ga Young) yang sejak kecil merasa tidak percaya diri, lantaran sering diejek berwajah tidak cantik. Ia kemudian tumbuh menjadi remaja yang sering ditindas dan tidak memiliki teman dekat.Ju Gyeong lebih sering menghabiskan waktunya untuk menekuni hobinya sendiri, yakni membaca komik horor dan mendengarkan musik metal. Meski demikian, keluarganya tidak ada yang tahu kejadian yang menimpa putrinya, sebab ia selalu tampak ceria.Suatu hari, keluarga Im terpaksa pindah ke rumah lama mereka karena masalah ekonomi. Ju Gyeong yang telah lelah mengalami pem-bully-an sadis, kemudian berusaha mengubah image-nya menjadi gadis yang cantik.Diketahui, gadis tersebut belajar merawat diri dan menggunakan make up agar lebih terlihat menarik. Usahanya berhasil, sebab di hari pertama ia masuk, banyak yang terpesona oleh kecantikannya dan untuk pertama kalinya, Ju Gyeong mendapatkan teman. Tentu saja, hal tersebut juga dikarenakan dirinya mempunyai kepribadian yang baik dan menyenangkan.Di sanalah kemudian Ju Gyeong bertemu dengan teman sekelasnya, sosok yang tampan nan dingin, bernama Lee Su Ho (Cha Eun Woo). Tak hanya itu, dia juga tak sengaja mendapatkan ‘masalah’ dengan salah satu murid paling populer sekaligus dianggap badung oleh para guru, Han Seo Jun (Hwang In Youp).Cerita semakin rumit ketika Ju Gyeong terlibat cinta segitiga dengan kedua pria itu, padahal baik Su Ho maupun Seo Jun diketahui saling bermusuhan yang melibatkan kasus bunuh dirinya seorang penyanyi muda terkenal. Belum lagi, gadis tersebut juga harus berjuang mengatasi trauma besarnya di masa lalu akibat penindasan teman-teman sekolah lamanya dan untuk mencintai dirinya sendiri.</item>
+    <item>“Dedes” mengusung konsep fiksi yang tokohnya diadaptasi dari sejarah Indonesia. “Dedes” menceritakan tentang Mita, seorang mahasiswi yang tiba-tiba bereinkarnasi ke tubuh Ken Dedes.Bukan reinkarnasi biasa. Mita mendapat wangsit dari mendiang Ken Dedes lewat mimpi. Dalam wangsit tersebut, Ken Dedes berpesan agar Mita membantu mewujudkan impiannya yang selama ini belum sempat terwujud.Di sisi lain Mita benar-benar bingung. Di sejarah aslinya, diceritakan bahwa ia terpaksa menikah dengan Tunggul Ametung dan berselingkuh dengan Ken Arok.Namun ending-nya, cintanya ke Ken Arok justru dibalas pengkhianatan. Pasalnya Ken Arok lebih memilih bersama cinta masa kecilnya, Ken Umang.Selain itu, Tunggul Ametung di sejarah dikenal sebagai sosok pemimpin yang sangat bengis. Namun di kehidupan reinkarnasinya sebagai Ken Dedes, Mita justru selalu mendapat perlakuan hangat dari Tunggul Ametung.Perlahan, Mita sadar bahwa Tunggul Ametung jauh berbeda dengan yang digambarkan sejarah.</item>
+    <item>Webtoon ini merupakan karya Meidito Dian, seorang mahasiswa. Hantu +62 menceritakan berbagai jenis hantu di Indonesia.Seperti salah satu episodenya mengisahkan tentang Banaspati.Hantu ini sering ditemukan di Nusantara biasanya di daerah pulau Jawa dan juga Kalimantan. Banaspati bisa berupa kiriman dari seorang dukun untuk mengganggu seseorang yang dituju oleh si pemesan. Banaspati bisa membakar manusia yang mengganggunya, biasanya melakukan tugasnya saat malam hari, dan hinggap di rumah mangsanya kemudian berubah menjadi sosok jin yang menyeramkan. Beda halnya dengan komik ini, peran banaspati tidak menyeramkan seperti kenyataannya.Banaspati yang seharusnya menakuti dan mengganggu mangsanya, justru dijadikan pengganti api unggun oleh manusia yang ditemukannya. Banaspati merasa salah dalam memili</item>
+    <item>Webtoon ini bercerita tentang 7 orang sahabat yang memiliki kisah masa lalu penuh misteri. Suatu saat, ketujuh tokoh ini memilih untuk berpisah dan memulai kehidupan baru dengan jalan yang berbeda-beda.Dua tahun setelah perpisahan mereka, salah satu tokoh yaitu Seok Jin kembali dari United States dan mencoba mencari keenam teman lamanya. Misi dari pencariannya tersebut, tak lain adalah bertemu dan menyelamatkan keenam sahabatnya. Selain itu, dalam misi ini Seok Jin juga bertekad untuk memperbaiki kesalahan atas perbuatan yang pernah mereka lakukan di masa lalu. Rencananya Webtoon bertajuk “Save Me” ini akan dirilis dalam 16 episode terhitung sejak bulan Januari hingga bulan April mendatang. Atas semua ilustrasi yang ada di dalam Webtoon tersebut, pihak agensi bekerja sama dengan illustrator handal bernama LICO. Sementara dalam penentuan alur dan cerita, pihak Big Hit Entertaiment memilih untuk menghandle secara penuh bagian tersebut.</item>
+    </string-array>
+
+    <array name="video_id">
+        <item>@raw/toon1</item>
+        <item>@raw/toon2</item>
+        <item>@raw/toon3</item>
+        <item>@raw/toon4</item>
+        <item>@raw/toon5</item>
+        <item>@raw/toon6</item>
+        <item>@raw/toon7</item>
+        <item>@raw/toon8</item>
+        <item>@raw/toon9</item>
+        <item>@raw/toon10</item>
+        <item>@raw/toon11</item>
+        <item>@raw/toon12</item>
+        <item>@raw/toon13</item>
+        <item>@raw/toon14</item>
+        <item>@raw/toon15</item>
+    </array>
+
+
+    <integer-array name="data_gambar">
+        <item>@drawable/toon1</item>
+        <item>@drawable/toon2</item>
+        <item>@drawable/toon3</item>
+        <item>@drawable/toon4</item>
+        <item>@drawable/toon5</item>
+        <item>@drawable/toon6</item>
+        <item>@drawable/toon7</item>
+        <item>@drawable/toon8</item>
+        <item>@drawable/toon9</item>
+        <item>@drawable/toon10</item>
+        <item>@drawable/toon11</item>
+        <item>@drawable/toon12</item>
+        <item>@drawable/toon13</item>
+        <item>@drawable/toon14</item>
+        <item>@drawable/toon15</item>
+
+    </integer-array>
+</resources>
